@@ -1,0 +1,15 @@
+D:\develop\C#\中澳计科\课堂作业\字符串\bin\Debug\net6.0\字符串.exe
+D:\develop\C#\中澳计科\课堂作业\字符串\bin\Debug\net6.0\字符串.deps.json
+D:\develop\C#\中澳计科\课堂作业\字符串\bin\Debug\net6.0\字符串.runtimeconfig.json
+D:\develop\C#\中澳计科\课堂作业\字符串\bin\Debug\net6.0\字符串.dll
+D:\develop\C#\中澳计科\课堂作业\字符串\bin\Debug\net6.0\字符串.pdb
+D:\develop\C#\中澳计科\课堂作业\字符串\obj\Debug\net6.0\字符串.csproj.AssemblyReference.cache
+D:\develop\C#\中澳计科\课堂作业\字符串\obj\Debug\net6.0\字符串.GeneratedMSBuildEditorConfig.editorconfig
+D:\develop\C#\中澳计科\课堂作业\字符串\obj\Debug\net6.0\字符串.AssemblyInfoInputs.cache
+D:\develop\C#\中澳计科\课堂作业\字符串\obj\Debug\net6.0\字符串.AssemblyInfo.cs
+D:\develop\C#\中澳计科\课堂作业\字符串\obj\Debug\net6.0\字符串.csproj.CoreCompileInputs.cache
+D:\develop\C#\中澳计科\课堂作业\字符串\obj\Debug\net6.0\字符串.dll
+D:\develop\C#\中澳计科\课堂作业\字符串\obj\Debug\net6.0\refint\字符串.dll
+D:\develop\C#\中澳计科\课堂作业\字符串\obj\Debug\net6.0\字符串.pdb
+D:\develop\C#\中澳计科\课堂作业\字符串\obj\Debug\net6.0\字符串.genruntimeconfig.cache
+D:\develop\C#\中澳计科\课堂作业\字符串\obj\Debug\net6.0\ref\字符串.dll

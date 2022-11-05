@@ -1,0 +1,15 @@
+D:\develop\C#\中澳计科\课堂作业\类继承——虚拟和重写\bin\Debug\net6.0\类继承——虚拟和重写.exe
+D:\develop\C#\中澳计科\课堂作业\类继承——虚拟和重写\bin\Debug\net6.0\类继承——虚拟和重写.deps.json
+D:\develop\C#\中澳计科\课堂作业\类继承——虚拟和重写\bin\Debug\net6.0\类继承——虚拟和重写.runtimeconfig.json
+D:\develop\C#\中澳计科\课堂作业\类继承——虚拟和重写\bin\Debug\net6.0\类继承——虚拟和重写.dll
+D:\develop\C#\中澳计科\课堂作业\类继承——虚拟和重写\bin\Debug\net6.0\类继承——虚拟和重写.pdb
+D:\develop\C#\中澳计科\课堂作业\类继承——虚拟和重写\obj\Debug\net6.0\类继承——虚拟和重写.csproj.AssemblyReference.cache
+D:\develop\C#\中澳计科\课堂作业\类继承——虚拟和重写\obj\Debug\net6.0\类继承——虚拟和重写.GeneratedMSBuildEditorConfig.editorconfig
+D:\develop\C#\中澳计科\课堂作业\类继承——虚拟和重写\obj\Debug\net6.0\类继承——虚拟和重写.AssemblyInfoInputs.cache
+D:\develop\C#\中澳计科\课堂作业\类继承——虚拟和重写\obj\Debug\net6.0\类继承——虚拟和重写.AssemblyInfo.cs
+D:\develop\C#\中澳计科\课堂作业\类继承——虚拟和重写\obj\Debug\net6.0\类继承——虚拟和重写.csproj.CoreCompileInputs.cache
+D:\develop\C#\中澳计科\课堂作业\类继承——虚拟和重写\obj\Debug\net6.0\类继承——虚拟和重写.dll
+D:\develop\C#\中澳计科\课堂作业\类继承——虚拟和重写\obj\Debug\net6.0\refint\类继承——虚拟和重写.dll
+D:\develop\C#\中澳计科\课堂作业\类继承——虚拟和重写\obj\Debug\net6.0\类继承——虚拟和重写.pdb
+D:\develop\C#\中澳计科\课堂作业\类继承——虚拟和重写\obj\Debug\net6.0\类继承——虚拟和重写.genruntimeconfig.cache
+D:\develop\C#\中澳计科\课堂作业\类继承——虚拟和重写\obj\Debug\net6.0\ref\类继承——虚拟和重写.dll

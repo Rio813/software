@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "字符提取和整数整除/1.0.0": {
+        "runtime": {
+          "字符提取和整数整除.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "字符提取和整数整除/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
